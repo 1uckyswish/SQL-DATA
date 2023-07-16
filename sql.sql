@@ -3,4 +3,7 @@
 -- INSERT INTO USERS (username, password, email)
 -- VALUES ('TINA', 'BYE WORLD','tinawinnnnn@gmail.com')
 
-SELECT * FROM USERS;
+-- INSERT INTO USERS (username, password, email)
+-- VALUES ('tina', '1234556', 'tina@gmail.com');
+
+SELECT * from USERS;
